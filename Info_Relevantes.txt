@@ -1,0 +1,10 @@
+Info relevantes:
+
+materia: ANÁLISE DE TEXTO DE FONTES DESESTRUTURADAS E WEB - ELET_A 2022/1
+
+Entrega 1 (20/5): Extração e limpeza dos dados
+    - Entregável: um jupyter notebook que faz a extração e limpeza dos dados. 
+    - Entregar também um exemplo de dados salvos (seja um arquivo TXT ou planilha CSV, XLSX)
+
+Entrega 2 (08/6): Análise dos dados e Projeto finalizado (Relatório final)
+    - Entregável: a principal entrega será um jupyter notebook do projeto (relatório final).
